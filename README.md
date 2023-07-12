@@ -7,3 +7,6 @@ Chcę rozszerzyć swoje horyzonty oraz zdobyć zdobyć punkt zaczepienia do zdob
 
 ### test purpurowy
 10/14
+
+## ZADANIE 2: selektory
+
