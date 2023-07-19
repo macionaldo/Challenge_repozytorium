@@ -2,6 +2,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 
 
+
+
 class BasePage():
 
     def __init__(self, driver: WebDriver):
@@ -16,3 +18,4 @@ class BasePage():
     def get_page_title(self, url):
         self.driver.get(url)
         return self.driver.title
+
