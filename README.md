@@ -10,3 +10,5 @@ Chcę rozszerzyć swoje horyzonty oraz zdobyć zdobyć punkt zaczepienia do zdob
 
 ## ZADANIE 2: selektory
 
+## Zadanie 4: link google drive: https://drive.google.com/drive/folders/1oeNhbBscqdzERaH81CVVh55f5UQwX2jX?usp=drive_link
+
