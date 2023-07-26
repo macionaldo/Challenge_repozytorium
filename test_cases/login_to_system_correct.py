@@ -11,7 +11,7 @@ from pages.login_page import LoginPage
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
-class TestLogin(unittest.TestCase):
+class TestLoginCorrect(unittest.TestCase):
 
     @classmethod
     def setUp(self):
