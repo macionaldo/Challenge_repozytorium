@@ -3,7 +3,7 @@ from pages.base_page import BasePage
 
 class LoginPage(BasePage):
     login_field_xpath = "//*[@id='login']"
-    login_url = ('https://scouts-test.futbolkolektyw.pl/en')
+    login_url = ('https://dareit.futbolkolektyw.pl/en/login?redirected=true')
     password_field_xpath =  "//*[@id='password']"
     sign_in_button_xpath = '//*[@id="__next"]/form/div/div[2]/button/span[1]'
     remind_passowrd_button_xpath = "//*[@id='__next']/form/div/div[1]/a"
