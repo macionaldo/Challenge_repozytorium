@@ -1,14 +1,9 @@
-# Podzadanie 1: konfiguracja oprogramowania.
+# Testtowanie strony scountingowej
 
-## Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?
+Projekt polega na testowaniu strony https://scouts-test.futbolkolektyw.pl/en/ służącej do organizacji danymi zawodników piłkarskich
 
-Chcę rozszerzyć swoje horyzonty oraz zdobyć zdobyć punkt zaczepienia do zdobycia wiedzy która pozwoli na zdobycie zatrudnienia w branży IT. 
+login: user01@getnada.com
+hasło: Test-1234
 
-
-### test purpurowy
-10/14
-
-## ZADANIE 2: selektory
-
-## Zadanie 4: link google drive: https://drive.google.com/drive/folders/1oeNhbBscqdzERaH81CVVh55f5UQwX2jX?usp=drive_link
+link google drive (znajduje się tam scenariusz, zapisy testów, oraz raport) : https://drive.google.com/drive/folders/1oeNhbBscqdzERaH81CVVh55f5UQwX2jX?usp=drive_link
 
